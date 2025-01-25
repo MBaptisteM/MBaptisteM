@@ -1,5 +1,5 @@
 # 💫 Hello, I am Baptiste !
-👨‍🎓 I am studying computer science at [EPITA](https://www.epita.fr/) to become Engeneer<br>👨‍💻 I am Curently learning C#, Python and OCaml
+👨‍🎓 I am studying computer science at [EPITA](https://www.epita.fr/) to become Engineer<br>👨‍💻 I am currently learning C#, Python and OCaml
 
 
 ## 🌐 Socials:
