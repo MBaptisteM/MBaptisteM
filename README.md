@@ -5,8 +5,8 @@
 
 <div align="center">
   <h3> 👨‍🎓 I am studying computer science at <a href = https://www.epita.fr/>EPITA</a> to become Engineer </br></br>
-  👨‍💻 If you want to learn more about my projects go check my <a href = mbaptistem.github.io>Website</a> </br></br>
-  📫 You can also contact me at <a href = mailto:mahebaptiste.99@gmail.com>mahebaptiste.99@gmail.com</a> </h3>
+  👨‍💻 If you want to learn more about my projects go check my <a href = https://mbaptistem.github.io/>Website</a> </br></br>
+  📫 You can also contact me at <a href = https://mailto:mahebaptiste.99@gmail.com>mahebaptiste.99@gmail.com</a> </h3>
 </div>
 
 <p align="center">
