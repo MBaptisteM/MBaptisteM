@@ -10,8 +10,9 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/baptiste-mah%C3%A9-84199a2a6/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/baptiste-mah%C3%A9-84199a2a6/" height="50" width="50"/></a>&nbsp;
-    <a href="mailto:mahebaptiste.99@gmail.com" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/brands/application-logo/gmail-45.png" alt="mahebaptiste.99@gmail.com" height="60" width="60"/></a>
+<a href="https://www.linkedin.com/in/baptiste-mah%C3%A9-84199a2a6/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/baptiste-mah%C3%A9-84199a2a6/" height="50" /></a>
+  &nbsp;
+    <a href="mailto:mahebaptiste.99@gmail.com" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/brands/application-logo/gmail-45.png" alt="mahebaptiste.99@gmail.com" height="60" /></a>
 </p>
 
 
