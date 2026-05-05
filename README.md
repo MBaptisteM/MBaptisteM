@@ -21,12 +21,12 @@
   
  <h3 align="center">⚙️ GitHub Analytics</h3>
 
-<p align="center">
+ <p align="center">
   <!--
   <img height="180em" src="https://github-readme-stats-livid-one-80.vercel.app/api?username=mbaptistem&show_icons=true&bg_color=242221&text_color=f7f7f7&border_color=000000&ring_color=f79000&icon_color=f79000&title_color=f5f5f5&text_bold=false&count_private=true&card_width=500px"/>&nbsp;
   <img height="180em" src="https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=mbaptistem&bg_color=242221&text_color=f7f7f7&border_color=000000&count_private=true&title_color=f5f5f5&text_bold=true&langs_count=6&hide_title=true&card_width=500px"/>
-</a>
---!>
+</a> 
+-->
 
 <img height = "180em" src = "https://github-readme-streak-stats.herokuapp.com/?user=mbaptistem&theme=transparent&hide_border=false">
 </p>
