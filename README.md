@@ -27,15 +27,15 @@
   <img height="180em" src="https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=mbaptistem&bg_color=242221&text_color=f7f7f7&border_color=000000&count_private=true&title_color=f5f5f5&text_bold=true&langs_count=6&hide_title=true&card_width=500px"/>
 -->
 
-<img height = "180em" src = "https://github-readme-streak-stats.herokuapp.com/?user=MbaptisteM&theme=transparent&hide_border=false&border_radius=15">
+<img height = "180em" src = "https://github-readme-streak-stats.herokuapp.com/?user=MbaptisteM&theme=transparent&hide_border=false&border_radius=15&timezone=%2B1">
 </p>
 
 
 <h3 align="center">🧰 Languages and Tools:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,linux,py,cs,c,unity,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,linux,py,cs,c,unity,git,regex)](https://skillicons.dev)
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ocaml,ps,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ocaml,ps,vscode,latex)](https://skillicons.dev)
