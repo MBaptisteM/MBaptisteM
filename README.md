@@ -27,7 +27,7 @@
   <img height="180em" src="https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=mbaptistem&bg_color=242221&text_color=f7f7f7&border_color=000000&count_private=true&title_color=f5f5f5&text_bold=true&langs_count=6&hide_title=true&card_width=500px"/>
 -->
 
-<img height = "180em" src = "https://github-readme-streak-stats.herokuapp.com/?user=MbaptisteM&theme=transparent&hide_border=false">
+<img height = "180em" src = "https://github-readme-streak-stats.herokuapp.com/?user=MbaptisteM&theme=transparent&hide_border=false&border_radius=15">
 </p>
 
 
