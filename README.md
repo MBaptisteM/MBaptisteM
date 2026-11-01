@@ -44,7 +44,7 @@
 </p>
 
 </br>
-
+</br>
 
 <h2 align="center">🧰 Languages and tools</h2>
 
@@ -52,4 +52,12 @@
   <img src="https://skillicons.dev/icons?i=c,py,cs,ocaml,js,html,css,latex&theme=dark&perline=8" alt="Languages" />
   <br>
   <img src="https://skillicons.dev/icons?i=linux,vim,vscode,git,unity,ps,regex&theme=dark&perline=7" alt="Tools" />
+</p>
+
+</br>
+
+<p align="center"> 
+  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MBaptisteM/MBaptisteM/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MBaptisteM/MBaptisteM/output/github-snake.svg" /> 
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/MBaptisteM/MBaptisteM/output/github-snake.svg" /> 
+  </picture> 
 </p>
