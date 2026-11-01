@@ -1,41 +1,55 @@
-<div style="text-align: center;">
-  <h1 align="center">💫 Hello, I am Baptiste !</h1>
-  <h2 align="center">A passionate software developer</h2>
-</div>
-
-<div align="center">
-  <h3> 👨‍🎓 I am studying computer science at <a href = https://www.epita.fr/>EPITA</a> to become Engineer </br></br>
-  👨‍💻 If you want to learn more about my projects go check my <a href = https://mbaptistem.github.io/>Website</a> </br></br>
-  📫 You can also contact me at <a href = mailto:mahebaptiste.99@gmail.com>mahebaptiste.99@gmail.com</a> </h3>
-</div>
-
+<!-- Header -->
 <p align="center">
-<a href="https://www.linkedin.com/in/baptiste-mah%C3%A9-84199a2a6/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/baptiste-mah%C3%A9-84199a2a6/" height="50" /></a>
-  &nbsp;
-    <a href="mailto:mahebaptiste.99@gmail.com" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/brands/application-logo/gmail-45.png" alt="mahebaptiste.99@gmail.com" height="60" /></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&section=header&reversal=false&text=Baptiste+MAHE&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=passionate+software+developer&descSize=20&descAlign=50&descAlignY=66" alt="Baptiste MAHE" />
 </p>
 
+<!-- Typing animation -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=7875FF&center=true&vCenter=true&width=700&lines=Hello%2C+I+am+Baptiste;Computer+science+student;Definitely+a+Vim+enjoyer;Huge+fan+of+low+level+languages;Check+my+website+to+discover+my+projects" alt="Typing SVG" /></a>
+</p>
+
+</br>
+
+<p align="center">
+  <a href="https://www.epita.fr/"><img src="https://img.shields.io/badge/EPITA-Engineering%20student-7875FF?style=for-the-badge&labelColor=0d1117" alt="EPITA" /></a>
+  <a href="https://mbaptistem.github.io/"><img src="https://img.shields.io/badge/Portfolio-mbaptistem.github.io-7875FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/baptiste-mah%C3%A9-84199a2a6/"><img src="https://img.shields.io/badge/LinkedIn-Baptiste%20Mah%C3%A9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mahebaptiste.99@gmail.com"><img src="https://img.shields.io/badge/Gmail-mahebaptiste.99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+</br>
 
 ---
 
-  
- <h3 align="center">⚙️ GitHub Analytics</h3>
 
- <p align="center">
-  <!--
-  <img height="180em" src="https://github-readme-stats-livid-one-80.vercel.app/api?username=mbaptistem&show_icons=true&bg_color=242221&text_color=f7f7f7&border_color=000000&ring_color=f79000&icon_color=f79000&title_color=f5f5f5&text_bold=false&count_private=true&card_width=500px"/>&nbsp;
-  <img height="180em" src="https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=mbaptistem&bg_color=242221&text_color=f7f7f7&border_color=000000&count_private=true&title_color=f5f5f5&text_bold=true&langs_count=6&hide_title=true&card_width=500px"/>
--->
+<div align="center">
+  <h3> 
+    🎓 I am studying computer science at <a href = https://www.epita.fr/>EPITA</a> to become Engineer </br></br>
+    👨‍💻 If you want to learn more about my projects go check my <a href = https://mbaptistem.github.io/>Website</a> </br></br>
+    📫 You can also contact me at <a href = mailto:mahebaptiste.99@gmail.com>mahebaptiste.99@gmail.com</a> 
+  </h3>
+</div>
 
-<img height = "180em" src = "https://github-readme-streak-stats.herokuapp.com/?user=MbaptisteM&theme=transparent&hide_border=false&border_radius=15&timezone=%2B1">
+
+</br>
+
+
+<h2 align="center">⚙️ GitHub analytics</h2>
+
+<p align="center">
+  <img height="200" src="https://streak-stats.demolab.com/?user=MBaptisteM&theme=transparent&hide_border=false&border_radius=15&timezone=Europe%2FParis" alt="GitHub streak" />
 </p>
 
+</br>
 
-<h3 align="center">🧰 Languages and Tools:</h3>
-<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vim,linux,py,cs,c,unity,git,regex)](https://skillicons.dev)
+<h2 align="center">🧰 Languages and tools</h2>
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ocaml,ps,vscode,latex)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,cs,ocaml,js,html,css,latex&theme=dark&perline=8" alt="Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,git,unity,ps,regex&theme=dark&perline=7" alt="Tools" />
+</p>
