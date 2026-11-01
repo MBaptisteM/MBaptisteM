@@ -40,7 +40,7 @@
 <h2 align="center">⚙️ GitHub analytics</h2>
 
 <p align="center">
-  <img height="200" src="https://streak-stats.demolab.com/?user=MBaptisteM&theme=transparent&hide_border=false&border_radius=15&timezone=Europe%2FParis" alt="GitHub streak" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=MBaptisteM&theme=transparent&hide_border=false&border_radius=15&timezone=Europe%2FParis&border=7875FF&stroke=7875FF&ring=7875FF&fire=7875FF&currStreakLabel=7875FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9C9C9&dates=8B8B8B" alt="GitHub streak" />
 </p>
 
 </br>
